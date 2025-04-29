@@ -3,4 +3,6 @@ body {
 }
 .hero {
     background: #1F2937;
+    color: white;
+    font-family: roboto;
 }
