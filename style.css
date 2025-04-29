@@ -60,10 +60,22 @@ main {
 }
 
 /* second section start (blue boxes) */
+.info h2 {
+    font-family: roboto, sans-serif;
+    text-align: center;
+}
+
 
 .blue-box {
     width: 150px;
     height: 150px;
     border: solid 4px blue;
     border-radius: 10px;
+}
+.info p {
+    width: 149px;
+    text-align: center;
+    margin-top: 0;
+    font-family: roboto;
+    font-size: 14px;
 }
