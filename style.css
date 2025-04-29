@@ -113,3 +113,12 @@ main {
     font-weight: bold;
     text-align: right;
 }
+
+/* CTA section start */
+
+.CTA-box {
+    width: 80%;
+    background: #3882F6;
+    margin: 50px auto;
+    
+}
