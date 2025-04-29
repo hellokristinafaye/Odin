@@ -24,3 +24,7 @@ body {
 .nav-link {
     margin: 15px;
 }
+.nav-link-text {
+    text-decoration: none;
+    color: white;
+}
