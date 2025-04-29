@@ -107,3 +107,8 @@ main {
     font-style: italic;
     color: #1F2937;
 }
+.thor {
+    font-family: roboto;
+    font-weight: bold;
+    text-align: right;
+}
