@@ -42,8 +42,15 @@ main {
 .left {
     flex-basis: 40%;
 }
-.right {
-    /* flex-basis: 39%;  */
+/* .right {
+    flex-basis: 39%; 
+} */
+.sign-up {
+    background: #3882F6;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 /* this is b/c we ddon't wnanna bother looking for an image right now. */
 .placeholder {
