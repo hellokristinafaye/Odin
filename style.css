@@ -1,19 +1,22 @@
 body {
     width: 100vw;
+    margin: 0;
+    padding: 0;
 }
 .hero {
     background: #1F2937;
     color: white;
     font-family: roboto;
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 .navbar {
     display: flex;
     justify-content: space-between;
+    width: 80%;
+    margin: auto;
 }
 .navbar h1 {
-    text-align: left;
     position: absolute;
 }
 .links {
@@ -27,6 +30,19 @@ body {
 .nav-link-text {
     text-decoration: none;
     color: white;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;
+    margin: 80px 20px;
+}
+.left {
+    flex-basis: 40%;
+}
+.right {
+    flex-basis: 39%;
 }
 /* this is b/c we ddon't wnanna bother looking for an image right now. */
 .placeholder {
