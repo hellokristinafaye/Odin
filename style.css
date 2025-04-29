@@ -79,3 +79,6 @@ main {
     font-family: roboto;
     font-size: 14px;
 }
+.boxes {
+    display: flex;
+}
