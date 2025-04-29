@@ -5,6 +5,8 @@ body {
     background: #1F2937;
     color: white;
     font-family: roboto;
+    width: 80%;
+    margin: auto;
 }
 .navbar {
     display: flex;
@@ -12,4 +14,13 @@ body {
 }
 .navbar h1 {
     text-align: left;
+    position: absolute;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-link {
+    margin: 15px;
 }
