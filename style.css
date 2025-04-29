@@ -28,4 +28,8 @@ body {
     text-decoration: none;
     color: white;
 }
-.
+.placeholder {
+    width: 200px;
+    height: 150px;
+    background: rgb(115, 101, 101);
+}
