@@ -36,17 +36,18 @@ body {
 main {
     display: flex;
     justify-content: center;
-    margin: 80px 20px;
+    /* margin: 100px; */
+    padding: 100px 200px;
 }
 .left {
     flex-basis: 40%;
 }
 .right {
-    flex-basis: 39%;
+    /* flex-basis: 39%;  */
 }
 /* this is b/c we ddon't wnanna bother looking for an image right now. */
 .placeholder {
-    width: 200px;
-    height: 150px;
+    width: 500px;
+    height: 250px;
     background: rgb(115, 101, 101);
 }
