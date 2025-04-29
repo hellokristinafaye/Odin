@@ -142,3 +142,11 @@ main {
     border: 3px solid white;
     margin: 50px 0;
 }
+/* footer section start */
+.copyright {
+    background: #1F2937;
+    color: white;
+    font-family: roboto;
+    text-align: center;
+    padding: 10px;
+}
