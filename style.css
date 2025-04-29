@@ -58,3 +58,12 @@ main {
     height: 250px;
     background: rgb(115, 101, 101);
 }
+
+/* second section start (blue boxes) */
+
+.blue-box {
+    width: 150px;
+    height: 150px;
+    border: solid 4px blue;
+    border-radius: 10px;
+}
