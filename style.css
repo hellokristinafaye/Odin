@@ -90,3 +90,8 @@ main {
     width: 50%;
     justify-content: space-between;
 }
+
+/* quote section start */
+.quote {
+    background: #E5E7EB;
+}
